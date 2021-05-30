@@ -1,0 +1,15 @@
+export const coachesObj = {
+    id: 'training',
+    lightText: true,
+    imgStart: false,
+    headLine: 'ПЕРСОНАЛЬНЫЕ ТРЕНИРОВКИ',
+    description: 'Тренер с 15 летний опытом, трижды чемпион России по теннису, призер кубка Европы и просто хороший человек, котрый найдет подход к любому взрослому и ребенку.',
+    img: require('../../images/pic5.png'),
+    img2: require('../../images/pic6.png'),
+    description2: 'Тренер с 15 летний опытом, трижды чемпион Росии по теннису, призер кубка Европы и просто хороший человек, котрый найдет подход к любому взрослому и ребенку.',
+    dark: false,
+    primary: true,
+    big: true,
+    fontBig: true,
+    exact: true,
+}

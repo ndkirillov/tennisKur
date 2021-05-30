@@ -1,0 +1,15 @@
+export const trainingObj = {
+    id: 'training',
+    lightText: true,
+    imgStart: false,
+    headLine: 'ПЕРСОНАЛЬНЫЕ ТРЕНИРОВКИ',
+    description: 'Хотите получить или отточить навыки в теннисе? Индивидуальные занятия идеально подходят для изучения основ или продолжения технического совершенствования.',
+    img: require('../../images/pic3.png'),
+    img2: require('../../images/pic4.png'),
+    description2: 'Хоите вырастить чемпиона? Мягкое введение в игру, изучение основ, отработка ключевых навыков - все это поможет вашему ребенку стать профессиональным игроком.',
+    dark: false,
+    primary: true,
+    big: true,
+    fontBig: true,
+    exact: true,
+}
